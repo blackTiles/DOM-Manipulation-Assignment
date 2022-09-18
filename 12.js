@@ -1,0 +1,1 @@
+document.querySelector(".team-left-column .btn-primary").style.backgroundColor="blue";

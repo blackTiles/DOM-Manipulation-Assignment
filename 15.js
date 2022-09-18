@@ -1,0 +1,1 @@
+document.querySelector("#d560824win9b .ps-title").style.textAlign="right";

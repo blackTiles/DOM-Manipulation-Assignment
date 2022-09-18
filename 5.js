@@ -1,0 +1,1 @@
+document.querySelector(".feature-column-carousel__button .cta").innerText="Checkout";
